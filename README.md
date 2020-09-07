@@ -8,7 +8,7 @@
 #### Brownie points
 Try to keep the time-complexity minimal. O(1) or O(n) wherever possible
 
-#### Take your pick 
+### Take your pick 
 Pick 1 (or 2) and share your screen. You may be asked to make further modifications on your pick(s).
 ###### IDE: IntelliJ IDEA, Android Studio or whichever is your favorite
 ###### Language: Kotlin
@@ -24,10 +24,10 @@ ex:
 ex:
 Arr = [3,2,10,0,-30] , largest = 10
 
-##### What we are flexible about
+#### What we are flexible about
 We know it is an online round with time constrain. Many-a-times you will be not be penalized for a program that does not completely run as long as you demonstrate good coding skills and choice of algorithms, but the final call on this is always up to the panel.
 
-##### Solve
+#### Solve
 Solve your pick. Feel free to change your question, although do not do this if you have already spent a good amount of time on your first pick.
 
 #### Happy coding!
