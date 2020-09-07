@@ -9,7 +9,7 @@
 Try to keep the time-complexity minimal. O(1) or O(n) wherever possible
 
 #### Take your pick 
-Pick 1 (or 2) and share your screen
+Pick 1 (or 2) and share your screen. You may be asked to make further modifications on your picks.
 ###### IDE: IntelliJ IDEA, Android Studio or whichever is your favorite
 ###### Language: Kotlin
 1. Given a string which contains only parentheses, write a program to check if it is balanced or not.
