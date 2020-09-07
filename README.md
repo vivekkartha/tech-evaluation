@@ -9,7 +9,7 @@
 Try to keep the time-complexity minimal. O(1) or O(n) wherever possible
 
 ### Take your pick 
-Pick 1 (or 2) and share your screen. You may be asked to make further modifications on your pick(s).
+Pick 1 and share your screen. You may be asked to make further modifications on your pick.
 ###### IDE: IntelliJ IDEA, Android Studio or whichever is your favorite
 ###### Language: Kotlin
 ###### Challenge #1
